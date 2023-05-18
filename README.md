@@ -1,4 +1,4 @@
-# ecommerce-frontend-7pm
+# ecommerce-frontend
 
 Register user: 
 
