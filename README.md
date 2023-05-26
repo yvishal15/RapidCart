@@ -1,4 +1,4 @@
-# ecommerce-frontend
+# ecommerce-frontend { RapidCart }
 
 Register user: 
 
